@@ -26,9 +26,7 @@ Demo 2：https://fireworks.nianbroken.top/
 
 - [haodong108/fireworks-2023](https://gitee.com/haodong108/fireworks-2023 "haodong108/fireworks-2023")
 
-## 最便宜的VPN
 
-[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/ "https://nianbroken.github.io/Great-Firewall/")
 
 ## 其他
 
